@@ -11,7 +11,7 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <https://www.gnu.org/licenses/>. */
 /* cyrillic-ext */
-@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,600');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:300,400,500,700');
 
 .outside-container {
   width: 350px;
@@ -25,7 +25,7 @@
 }
 
 .selector-container {
-  font-family: Rubik, sans-serif;
+  font-family: Roboto, sans-serif;
   background-color: #131313;
   color: white;
   padding: 4px;
@@ -244,7 +244,7 @@ p {
   left: 270px;
   color: white;
   font-size: 15px;
-  font-family: Rubik, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 .item-container img {
   opacity: 0.6;
